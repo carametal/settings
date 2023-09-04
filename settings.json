@@ -1,0 +1,31 @@
+{
+    "workbench.colorTheme": "GitHub Light",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "editor.suggestSelection": "first",
+    "editor.renderWhitespace": "all",
+    "editor.tabSize": 2,
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["Ctrl+j"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "vim.hlsearch": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "python.pythonPath": "/usr/bin/python3",
+    "java.jdt.ls.java.home": "/Library/Java/JavaVirtualMachines/zulu-19.jdk/Contents/Home",
+    "files.insertFinalNewline": true,
+    "[python]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4,
+    },
+    "python.formatting.provider": "black",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "cSpell.userWords": [
+        "pipenv",
+        "pytest"
+    ]
+}
